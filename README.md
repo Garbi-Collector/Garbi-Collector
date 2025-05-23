@@ -45,13 +45,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garbi-Collector&theme=radical" />
 </p>
 
+
+
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dezfractsty4ltfgf3ilre3jri&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dezfractsty4ltfgf3ilre3jri&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dezfractsty4ltfgf3ilre3jri&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=38ffcd&bar_color_cover=false" />
+  </a>
 </p>
-
-
-
-
-
 
 
