@@ -1,7 +1,22 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450" />
+</p>
+
+
+
+
+
 <h1 align="center">¡Hola! Soy Garbi-Collector 👋</h1>
 <h3 align="center">Desarrollador apasionado por Java, Spring Boot y el mundo de los microservicios ☕🚀</h3>
 
----
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Garbi-Collector?style=for-the-badge&logo=github&label=Total%20Stars" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
 
 ### 🙋‍♂️ Sobre mí
 
@@ -10,7 +25,10 @@
 - 🧠 Siempre aprendiendo sobre arquitectura de software, buenas prácticas y sistemas distribuidos.
 - 🎮 Fan de los videojuegos y soñando con hacer un MMORPG.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
 
 ### 🛠️ Tecnologías que uso
 
@@ -22,15 +40,16 @@
 ![MinIO](https://img.shields.io/badge/MinIO-B40000?style=for-the-badge&logo=MinIO&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
 
 ### 📊 Estadísticas de GitHub
 
 <!-- Stats -->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Garbi-Collector&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garbi-Collector&layout=compact&theme=radical" />
-</p>
 
 <!-- Streaks -->
 <p align="center">
@@ -47,10 +66,8 @@
 
 
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dezfractsty4ltfgf3ilre3jri&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dezfractsty4ltfgf3ilre3jri&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=38ffcd&bar_color_cover=false" />
-  </a>
-</p>
+
+
+
 
 
