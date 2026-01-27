@@ -51,15 +51,6 @@
 
 <!-- Stats -->
 
-<!-- Streaks -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Garbi-Collector&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Garbi-Collector&theme=radical&margin-w=15&margin-h=15" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garbi-Collector&theme=radical" />
 </p>
